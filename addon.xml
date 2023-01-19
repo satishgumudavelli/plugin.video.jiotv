@@ -21,11 +21,11 @@
         <forum>https://botallen.com/discord</forum>
         <website>https://botallen.com</website>
         <email>kodi@botallen.com</email>
-        <source>https://github.com/botallen/plugin.video.jiotv</source>
+        <source>https://github.com/satishgumudavelli/plugin.video.jiotv</source>
         <news>
 [- 2.3.0 -]
 [added] more extra channels
-[added] inputstream adaptive as a dependency 
+[added] inputstream adaptive as a dependency
 
 [- 2.2.0 -]
 [fixed] Bugs related to playback
@@ -47,7 +47,7 @@
 [- 2.0.0 -]
 
 [fixed] All major issues related to playback almost solved
-[added] Categorized by Language 
+[added] Categorized by Language
 [added] Filter channels by specific language in genre. (from settings)
         </news>
         <disclaimer>This plugin is not officially commissioned/supported by Jio. The trademark "Jio" is registered by "Reliance Corporate IT Park Limited (RCITPL)"</disclaimer>
